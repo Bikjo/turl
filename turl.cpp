@@ -40,7 +40,7 @@ int main(int argc, char** argv) // although called main, the main phase is app.e
 // max positive number in int32 is 2,147,483,647
 //  cookie = 400000000 + getpid(); // cookie should be unique
 
-  system("open http://www.bbc.co.uk");
+  system("open http://www.rt.com");
 
   sleep(1); // give VIPA announce-d chance to register us as a client
 
